@@ -1,0 +1,19 @@
+This project is developed to create a shape generator using Python.
+
+The system allows users to select different shapes through user input.
+
+Users can choose from square, rectangle, pyramid, circle, and triangle.
+
+The program allows users to enter the side length of a square to generate the shape.
+
+Users can enter the length and breadth to generate a rectangle.
+
+The pyramid and triangle are generated based on the height entered by the user.
+
+The circle is generated based on the radius specified by the user.
+
+The program uses mathematical calculations to generate the circular pattern.
+
+The selected shape is printed using asterisks based on the dimensions provided.
+
+This project helps in understanding Python loops, conditional statements, nested loops, mathematical operations, and user input.
